@@ -59,6 +59,3 @@ Use the matching key and the encrypted output produced by CryptX.
 CryptX is under active development. Future releases may expand its functionality, usability, and input handling.
 
 
-## License
-
-
