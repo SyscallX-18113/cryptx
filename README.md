@@ -16,8 +16,6 @@ CryptX provides a simple terminal interface for encrypting and decrypting text u
 
 ## Build
 
-If your source file is named `cryptx.c`, a basic GCC build command is:
-
 ```bash
 cd cryptx
 make
