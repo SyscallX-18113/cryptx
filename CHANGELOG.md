@@ -3,6 +3,14 @@
 
 All notable changes to CryptX are documented here.
 
+## [2.0.0] 
+
+### Added
+
+- Added directory encryption support.
+- Added directory decryption support.
+- Improved error handling.
+
 ## [1.5.0] 
 
 ### Added
